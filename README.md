@@ -1,43 +1,66 @@
-<h1 align="center">Hi 👋, I'm Nadeen</h1>
+<h1 align="center">Hi 👋, I'm Nadeen Haswah</h1>
+
 <h3 align="center">
-Full Stack Developer passionate about building modern web applications
+Junior Full Stack Web Developer | Frontend Specialist | Laravel & React Developer
 </h3>
+
+<p align="center">
+Passionate about building scalable web applications with clean UI/UX and modern backend architecture.
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Software Developer from Jordan
-- 💻 Specialized in Laravel, PHP, JavaScript & MySQL
-- 🚀 Currently learning React & API architecture
-- 🧠 Interested in scalable web systems and UI/UX
-- ⚡ I enjoy turning ideas into real products
+I'm a Junior Full Stack Web Developer based in Jordan with hands-on experience in Laravel, PHP, MySQL, React.js, and modern frontend technologies.
+
+I enjoy building interactive web applications, designing user-friendly interfaces, and transforming ideas into real products.
+
+My focus is on creating scalable systems with clean code, responsive design, and seamless user experiences.
+
+Currently learning:
+- Next.js
+- Advanced API Architecture
+- Scalable Laravel Applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 🚀 Current Projects
+## 💼 Featured Projects
 
-- 📝 Sticky Notes System
-- 📋 Kanban Project Management Platform
-- 🌍 Multilingual Laravel Website
-- 🦷 Dental Clinic Website
+### 📌 ManageEase – Project Management System
+- Interactive Kanban board
+- Checklists & attachments
+- Team collaboration
+- Full CRUD operations
+
+### 📌 Knowledge Hub – SaaS Platform
+- Multi-tenant knowledge management system
+- Role-based approvals
+- Company onboarding workflows
+
+### 📌 Gold Price Tracker
+- Live gold price tracking
+- Profit/loss calculations
+- React + Laravel API integration
 
 ---
 
@@ -53,8 +76,12 @@ Full Stack Developer passionate about building modern web applications
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINK)
+📧 Email: nadeen66h@gmail.com
 
-[Portfolio](https://yourportfolio.com)
+💼 LinkedIn: YOUR_LINKEDIN_LINK
 
-[Email](mailto:your@email.com)
+💻 GitHub: https://github.com/YOUR_USERNAME
+
+📍 Amman, Jordan
+
+---
