@@ -46,6 +46,11 @@ Currently learning:
 
 ## 💼 Featured Projects
 
+### 📌 Gold Price Tracker
+- Live gold price tracking
+- Profit/loss calculations
+- React + Laravel API integration
+
 ### 📌 ManageEase – Project Management System
 - Interactive Kanban board
 - Checklists & attachments
@@ -56,11 +61,6 @@ Currently learning:
 - Multi-tenant knowledge management system
 - Role-based approvals
 - Company onboarding workflows
-
-### 📌 Gold Price Tracker
-- Live gold price tracking
-- Profit/loss calculations
-- React + Laravel API integration
 
 ---
 
