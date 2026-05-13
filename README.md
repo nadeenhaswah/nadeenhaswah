@@ -78,10 +78,13 @@ Currently learning:
 
 📧 Email: nadeen66h@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_LINK
+💼 LinkedIn: https://www.linkedin.com/in/nadeen-haswah
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: https://github.com/nadeenhaswah
+
+📱 Phone: +962 79 934 2463
 
 📍 Amman, Jordan
 
 ---
+
