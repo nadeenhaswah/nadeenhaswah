@@ -20,7 +20,6 @@ My focus is on creating scalable systems with clean code, responsive design, and
 
 Currently learning:
 - Next.js
-- Advanced API Architecture
 - Scalable Laravel Applications
 
 ---
